@@ -20,16 +20,6 @@ The digital redesigns of several historic fonts offered here chart
 this historic evolution of Greek type design. The following fonts are
 available:
 
-**Majascule Typeface**
-
-1. GFS Ambrosia
-2. GFS Fleischman
-3. GFS Eustace 
-4. GFS Nicefore
-5. GFS Ignacio
-6. GFS Garaldus
-7. GFS Jackson
-
 **16th Century Typeface**
 
 1. GFS Compluntum
