@@ -58,7 +58,7 @@ available:
 6. GFS Theokritos
 7. GFS Olga
 8. GFS Heraklit
-9. GFS Elpis [freeware]
+9. GFS Elpis 
 10. GFS Galatea
 11. GFS Georgiou
 12. GFS Orpheus
