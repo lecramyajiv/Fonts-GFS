@@ -63,7 +63,7 @@ available:
 11. GFS Georgiou
 12. GFS Orpheus
 13. GFS Orpheus Sans
-14. GFS Pyros
+14. GFS Pyrsos
 15. GFS Noehellenic Math
 
 This is a repackage of Greek fonts for Slackware Linux.
