@@ -17,10 +17,12 @@
 **[GFS 18th century](https://www.greekfontsociety-gfs.gr/typefaces/18th_century)**
 
 1. [Bodoni Classic](http://www.greekfontsociety-gfs.gr/_assets/fonts/GFS_Bodoni_Classic.zip)
+2. [Baskerville](https://www.greekfontsociety-gfs.gr/_assets/fonts/GFS_Baskerville.zip)
+3. [Gazis](https://www.greekfontsociety-gfs.gr/_assets/fonts/GFS_Gazis.zip)
 
 **[GFS 16th Century](https://www.greekfontsociety-gfs.gr/typefaces/16th_century)**
 
-1. [Compltum](https://www.greekfontsociety-gfs.gr/_assets/fonts/GFS_Complutum.zip)
+1. [Complutum](https://www.greekfontsociety-gfs.gr/_assets/fonts/GFS_Complutum.zip)
 
 **[GFS 20-21st Century](https://www.greekfontsociety-gfs.gr/typefaces/20th_21st_century)**
 

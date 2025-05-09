@@ -22,11 +22,13 @@ available:
 
 **16th Century Typeface**
 
-1. GFS Compluntum
+1. GFS Complutum
 
 **18th Century Typeface**
 
 1. GFS Bodoni Classic
+2. GFS Baskerville
+3. GFS Gazis
 
 **19th Century Typeface**
 
